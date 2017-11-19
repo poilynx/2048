@@ -9,6 +9,6 @@ EasyX库是一个兼容Turbo C环境下graphics.h接口的第三方库
 
 ## 运行效果图
 
-![screenshot](./screenshot.png)
+![screenshot](./screenshot.jpg)
 
 
